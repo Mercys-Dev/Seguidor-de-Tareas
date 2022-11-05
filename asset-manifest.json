@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Seguidor-de-Tareas/static/css/main.f6d75fd5.css",
+    "main.js": "/Seguidor-de-Tareas/static/js/main.673a4c31.js",
+    "index.html": "/Seguidor-de-Tareas/index.html",
+    "main.f6d75fd5.css.map": "/Seguidor-de-Tareas/static/css/main.f6d75fd5.css.map",
+    "main.673a4c31.js.map": "/Seguidor-de-Tareas/static/js/main.673a4c31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6d75fd5.css",
+    "static/js/main.673a4c31.js"
+  ]
+}
